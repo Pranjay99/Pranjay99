@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-```python
 class Pranjay:
     name       = "Pranjay Seksaria"
     role       = "Associate Software Developer @ Bristol Myers Squibb"
@@ -71,3 +70,25 @@ class Pranjay:
 
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranjay99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjay99&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjay99&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+| 🏅 Achievement | 📌 Details |
+|---|---|
+| 📄 IEEE Published | Biometric Auth via Behavioral Mouse Tracking — SISIMPACT 2025 |
+| 🤖 Google Certified | Artificial Intelligence & Machine Learning |
+| ☁️ Microsoft Certified | Azure AI Fundamentals (AI-900) |
+| ⭐ HackerRank | 5-Star Rating — 700+ Problems Solved |
+| 💡 Start-up Street 7.0 | Top 3 Ideas — Education System |
