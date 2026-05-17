@@ -82,6 +82,39 @@ class Pranjay:
 </div>
 
 ---
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![EnterpriseQ](https://github-readme-stats.vercel.app/api/pin/?username=Pranjay99&repo=EnterpriseQ&theme=tokyonight&hide_border=true)](https://github.com/Pranjay99/EnterpriseQ)
+[![HostelCare](https://github-readme-stats.vercel.app/api/pin/?username=Pranjay99&repo=HostelCare&theme=tokyonight&hide_border=true)](https://github.com/Pranjay99/HostelCare)
+[![MentalEase](https://github-readme-stats.vercel.app/api/pin/?username=Pranjay99&repo=MentalEase&theme=tokyonight&hide_border=true)](https://github.com/Pranjay99/MentalEase)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:Pranjayseksaria09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/pranjay99">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Pranjay99">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=100&section=footer"/>
+</div>
+
+
 
 ## 🏆 Achievements & Certifications
 
