@@ -106,7 +106,7 @@ class Pranjay:
 
 <div align="center">
   <img 
-    src="https://gh-readme-stats.onrender.com/api/top-langs/?username=Pranjay99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&langs_count=8" 
+    src="https://github-stats.vercel.app/api/top-langs/?username=Pranjay99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" 
     width="500"
   />
 </div>
