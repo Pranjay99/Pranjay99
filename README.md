@@ -24,6 +24,8 @@ class Pranjay:
 
 </td>
 <td valign="top" width="40%">
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/66f3d4cd-4f3b-438a-a769-b85a2e90b3e6" />
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
 </td>
