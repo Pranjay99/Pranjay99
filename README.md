@@ -105,10 +105,17 @@ class Pranjay:
 </div>
 
 <div align="center">
+
+  <!-- Horizontal Language Bar — Exactly Like Your Image! -->
   <img 
-    src="https://github-stats.vercel.app/api/top-langs/?username=Pranjay99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" 
-    width="500"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranjay99&theme=tokyonight" 
+    width="320"
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranjay99&theme=tokyonight" 
+    width="320"
+  />
+
 </div>
 
 
