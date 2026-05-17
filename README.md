@@ -104,11 +104,10 @@ class Pranjay:
   />
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pranjay99&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=fd1d1d&point=FFFFFF" 
-    width="100%"
+    src="https://gh-readme-stats.onrender.com/api/top-langs/?username=Pranjay99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&langs_count=8" 
+    width="500"
   />
 </div>
 
