@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Hi%20👋%20I'm%20Pranjay%20Seksaria&fontSize=40&fontColor=white&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20IEEE%20Published%20Researcher&descAlignY=58&descSize=16&descColor=white"/>
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ class Pranjay:
     interests  = ["Generative AI", "LLM Applications", 
                   "Data Engineering", "Full Stack Dev"]
     currently  = "Building AI-powered enterprise solutions 🤖"
----
+
 
 ## 🛠️ Tech Stack
 
