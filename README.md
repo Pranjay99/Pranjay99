@@ -3,17 +3,31 @@
 </div>
 
 
+---
 
 ## 🚀 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
+```python
 class Pranjay:
     name       = "Pranjay Seksaria"
-    role       = "Associate Software Developer @ Bristol Myers Squibb"
+    role       = "Associate Software Developer @ BMS"
     education  = "B.Tech CSE @ VIT Vellore (CGPA: 8.94)"
-    research   = "IEEE Published — Biometric Auth via Mouse Tracking"
-    interests  = ["Generative AI", "LLM Applications", 
-                  "Data Engineering", "Full Stack Dev"]
-    currently  = "Building AI-powered enterprise solutions 🤖"
+    research   = "IEEE Published Researcher"
+    interests  = ["Generative AI", "LLM Apps",
+                  "Data Engineering", "Full Stack"]
+    currently  = "Building AI-powered solutions 🤖"
+```
+
+</td>
+<td valign="top" width="40%">
+  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d4c382b4c782b4865644768664251334b75334b342f53637265656e73686f742b323031382d30342d32332b61742b31312e34352e31332e706e67" width="300"/>
+</td>
+</tr>
+</table>
 
 
 ## 🛠️ Tech Stack
@@ -82,17 +96,6 @@ class Pranjay:
 </div>
 
 ---
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![EnterpriseQ](https://github-readme-stats.vercel.app/api/pin/?username=Pranjay99&repo=EnterpriseQ&theme=tokyonight&hide_border=true)](https://github.com/Pranjay99/EnterpriseQ)
-[![HostelCare](https://github-readme-stats.vercel.app/api/pin/?username=Pranjay99&repo=HostelCare&theme=tokyonight&hide_border=true)](https://github.com/Pranjay99/HostelCare)
-[![MentalEase](https://github-readme-stats.vercel.app/api/pin/?username=Pranjay99&repo=MentalEase&theme=tokyonight&hide_border=true)](https://github.com/Pranjay99/MentalEase)
-
-</div>
 
 ---
 
@@ -116,12 +119,4 @@ class Pranjay:
 
 
 
-## 🏆 Achievements & Certifications
 
-| 🏅 Achievement | 📌 Details |
-|---|---|
-| 📄 IEEE Published | Biometric Auth via Behavioral Mouse Tracking — SISIMPACT 2025 |
-| 🤖 Google Certified | Artificial Intelligence & Machine Learning |
-| ☁️ Microsoft Certified | Azure AI Fundamentals (AI-900) |
-| ⭐ HackerRank | 5-Star Rating — 700+ Problems Solved |
-| 💡 Start-up Street 7.0 | Top 3 Ideas — Education System |
