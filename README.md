@@ -12,19 +12,21 @@
 <td valign="top" width="60%">
 
 ```python
+
 class Pranjay:
     name       = "Pranjay Seksaria"
     role       = "Associate Software Developer @ BMS"
-    education  = "B.Tech CSE @ VIT Vellore (CGPA: 8.94)"
+    education  = "B.Tech CSE @ VIT Vellore"
     research   = "IEEE Published Researcher"
     interests  = ["Generative AI", "LLM Apps",
                   "Data Engineering", "Full Stack"]
     currently  = "Building AI-powered solutions 🤖"
+
 ```
 
 </td>
 <td valign="top" width="40%">
-  <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/66f3d4cd-4f3b-438a-a769-b85a2e90b3e6" />
+  <img width="900" height="800" alt="image" src="https://github.com/user-attachments/assets/66f3d4cd-4f3b-438a-a769-b85a2e90b3e6" />
 
 
 </td>
