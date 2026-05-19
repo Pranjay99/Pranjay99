@@ -137,6 +137,9 @@ class Pranjay:
   <a href="https://github.com/Pranjay99">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Pranjay%20Seksaria-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranjay-portfolio.netlify.app/)
+
 </div>
 
 <div align="center">
